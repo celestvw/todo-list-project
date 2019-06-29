@@ -1,4 +1,3 @@
-# Todo list exercise
 
 ## Getting started
 - Make sure Git (https://git-scm.com/) is installed
